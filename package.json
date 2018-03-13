@@ -1,0 +1,22 @@
+{
+  "name": "express-lecture",
+  "version": "1.0.0",
+  "description": "intro to express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjmarty23/express-lecture.git"
+  },
+  "author": "Brittany Marty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjmarty23/express-lecture/issues"
+  },
+  "homepage": "https://github.com/bjmarty23/express-lecture#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
